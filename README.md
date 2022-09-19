@@ -10,9 +10,11 @@ Tercer laboratorio de la asignatura Robótica de la Universidad Nacional de Colo
 |    Andrés Felipe Forero Salas    |[fore1806](https://github.com/fore1806)|
 |  Iván Mauricio Hernández Triana  |[elestrategaactual](https://github.com/elestrategaactual)|
 
+## Introducción
 
-
-
+## Solución planteada.
+ 
+### Configuración inicial
 
 
 ### VIDEO
