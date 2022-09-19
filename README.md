@@ -19,6 +19,6 @@ Para este laboratorio se parte apartir del desarrolo del Laboratorio 1 el cual s
 
 ### Reconocimiento entradas y salidas del robot
 Como promer paso se realiza un reconocimiento de las entradas y salidas presentes en el Robot para este caso solo se van a utilizar entradas y salidas digitales por lo cual mediante el flexpendant 
-
+### EN PROCESO.....................................................
 ### VIDEO
 [![Alt text](https://github.com/fore1806/Laboratorio-3-Rob/blob/master/Imagenes/Imagen%20Video.png)](https://www.youtube.com/watch?v=FElJ00nn7_k)
