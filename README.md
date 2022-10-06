@@ -16,7 +16,7 @@ La realización de tareas de forma automatizada cobra una mayor importancia en l
 ## Solución planteada. 
  
 ### Elementos previos necesarios 
-Este laboratorio se basa en el desarrollo del Laboratorio 1 el cual se encuentra disponible aquí https://github.com/fore1806/Laboratorio-1-Rob, en este repositorio se podrá encontrar información sobre la herramienta trabajo, la creación de work objects dentro del espacio del sistema, así como la creación de trayectorias para la realización de los caracteres. 
+Este laboratorio se basa en el desarrollo del [Primer Laboratorio - Robótica Industrial No. 1 :robot:](https://github.com/fore1806/Laboratorio-1-Rob), en este repositorio se podrá encontrar información sobre la herramienta trabajo, la creación de work objects dentro del espacio del sistema, así como la creación de trayectorias para la realización de los caracteres. 
  
 ### Reconocimiento entradas y salidas del robot 
 Como primer paso se realiza un reconocimiento de las entradas y salidas presentes en el Robot para este caso solo se van a utilizar entradas y salidas digitales por lo cual mediante el uso del FlexPendant se procede a verificar las salidas digitales y entradas programadas en el robot 
@@ -70,6 +70,7 @@ En el siguiente video se puede evidenciar los resultados obtenidos en el laborat
  
  
 -   Es muy importante tener diferentes entradas y salidas digitales que le permitan al operario, no tan calificado, manipular el robot de una manera sencilla por medio de pulsadores y de la misma manera observar y/o verificar por medio de lámparas el proceso que el robot se encuentre ejecutando. 
--   Se encuentra en el uso de dispositivos de entrada tales como botones, dotan al sistema de un mayor control de proceso; lo que termina traduciéndose en mayor seguridad al momento de la operación. 
--   El correcto cableado de los dispositivos usados como entradas o salidas es de vital importancia ya que este es un punto crítico donde se puede presentar fallas en un proceso industrial. 
 
+-   Se encuentra en el uso de dispositivos de entrada tales como botones, dotan al sistema de un mayor control de proceso; lo que termina traduciéndose en mayor seguridad al momento de la operación. 
+
+-   El correcto cableado de los dispositivos usados como entradas o salidas es de vital importancia ya que este es un punto crítico donde se puede presentar fallas en un proceso industrial. 
