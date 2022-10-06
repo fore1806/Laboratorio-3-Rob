@@ -72,3 +72,4 @@ En el siguiente video se puede evidenciar los resultados obtenidos en el laborat
 -   Es muy importante tener diferentes entradas y salidas digitales que le permitan al operario, no tan calificado, manipular el robot de una manera sencilla por medio de pulsadores y de la misma manera observar y/o verificar por medio de lámparas el proceso que el robot se encuentre ejecutando. 
 -   Se encuentra en el uso de dispositivos de entrada tales como botones, dotan al sistema de un mayor control de proceso; lo que termina traduciéndose en mayor seguridad al momento de la operación. 
 -El correcto cableado de los dispositivos usados como entradas o salidas es de vital importancia ya que este es un punto crítico donde se puede presentar fallas en un proceso industrial. 
+-El correcto cableado de los dispositivos usados como entradas o salidas es de vital importancia ya que este es un punto crítico donde se puede presentar fallas en un proceso industrial.
