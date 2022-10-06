@@ -20,16 +20,16 @@ Este laboratorio se basa en el desarrollo del Laboratorio 1 el cual se encuentra
  
 ### Reconocimiento entradas y salidas del robot 
 Como primer paso se realiza un reconocimiento de las entradas y salidas presentes en el Robot para este caso solo se van a utilizar entradas y salidas digitales por lo cual mediante el uso del FlexPendant se procede a verificar las salidas digitales y entradas programadas en el robot 
+
  
+
+![](https://github.com/fore1806/Laboratorio-3-Rob/blob/master/Imagenes/Salidas%20Digitales%20Robot%201%20LAB_SIR.jpeg) 
  
-(COLOCAR IMAGEN DEL FLEX PENDANT) 
-![](Imagenes/Entradas Digitales Robot 1 LAB_SIR.jpeg) 
- 
- 
+ ![](https://github.com/fore1806/Laboratorio-3-Rob/blob/master/Imagenes/Entradas%20Digitales%20Robot%201%20LAB_SIR.jpeg) 
 Una vez identificadas estas se procede a identificar la correspondencia de estas con los pulsadores e indicadores lumínicos presentes en el tablero del laboratorio obteniéndose el siguiente esquema 
  
- 
-(COLOCAR IMAGEN DEL TABLERO) 
+
+ ![](https://github.com/fore1806/Laboratorio-3-Rob/blob/master/Imagenes/Tablero_I-O_LAB_SIR.png) 
  
  
 ### Programación del robot 
